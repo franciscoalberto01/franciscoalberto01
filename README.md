@@ -1,8 +1,14 @@
 ### Olá, meu nome é Francisco 
 📱💻 Desenvolvedor Mobile e Front-End 💻📱
 
+- 🎯 Atualmente focado em:
 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-plain.svg" />
+<div display="inline">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50" height="50" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="50" height="50"/>     
+</div>
+          
           
 
 <!--
